@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aladdin</h1>
+<h1 align="center">Hi 👋, I'm Alaaddin</h1>
 <h3 align="center">A passionate junior C# .NET backend developer.</h3>
 
 - 🌱 I’m currently learning **Restful-Api with .NET**
